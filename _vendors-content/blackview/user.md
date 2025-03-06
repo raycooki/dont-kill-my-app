@@ -1,62 +1,62 @@
 ---
-manufacturer:
-    - blackview
+Hersteller:
+ - Blackview
 
 ---
 
 
-## Battery optimization
+## Batterieoptimierung
 
-<div class="img-block">
-  <figure>
+<div Klasse="img-block">
+  <Figur>
     <img src="/assets/img/blackview/bv_battery_optimization_1.png">
-    <figcaption>1. System settings -> Apps & Notifications. </figcaption>
-  </figure>
+    <Abb>1. Systemeinstellungen -> Apps & Benachrichtungen. </Abb>
+  </Figur>
 
-  <figure>
+  <Figur>
     <img src="/assets/img/blackview/bv_battery_optimization_2.png">
-    <figcaption>2. Choose Your app -> Advanced settings. </figcaption>
-  </figure>
+    <Abb>2. Wählen Sie Ihre App -> Erweiterte Einstellungen. </Abb>
+  </Figur>
 
-  <figure>
+  <Figur>
     <img src="/assets/img/blackview/bv_battery_optimization_3.png">
-    <figcaption>3. Battery. </figcaption>
-  </figure>
+    <Abb>3. Batterie. </Abb>
+  </Figur>
 
-  <figure>
+  <Figur>
     <img src="/assets/img/blackview/bv_battery_optimization_4.png">
-    <figcaption>4. <strong>Battery optimization</strong>. </figcaption>
-  </figure>
+    <Abb>4. <Stark>Batterieoptimierung</Stark>. </Abb>
+  </Figur>
 
-  <figure>
+  <Figur>
     <img src="/assets/img/blackview/bv_battery_optimization_5.png">
-    <figcaption>5. Expand the list to <strong>All applications</strong>. </figcaption>
-  </figure>
+    <Abb>5. Erweitern Sie die Liste um <Stark>Alle Anwendungen</Stark>. </Abb>
+  </Figur>
 
-  <figure>
+  <Figur>
     <img src="/assets/img/blackview/bv_battery_optimization_6.png">
-    <figcaption>6. Set Your app to Don't optimize. </figcaption>
-  </figure>
+    <Abb>6. Stellen Sie Ihre App auf Nicht optimieren. </Abb>
+  </Figur>
 
 </div>
 
 
-## Lock in Recent apps
+## Sperren Sie aktuelle Apps
 
 
-This point is not confirmed to be helpful, but it was suggested by the technical support and also in some internet discussions.
+Dieser Punkt wird nicht als hilfreich bestättigt, wurde aber vom technischen Support und auch in einemigen Internetdiskussionen vorgeschlagen.
 
 
-<div class="img-block">
-  <figure>
+<div Klasse="img-block">
+  <Figur>
     <img src="/assets/img/blackview/bv_lock_1.png">
-    <figcaption>1. Go to Overview (Recent apps menu)<br> -> tap the <strong>Screwdriver and Wrench</strong> icon. </figcaption>
-  </figure>
+    <Abb>1. Gehen Sie zu Übersicht (Menü Aktuelle Apps)<Br> -> tippen Sie auf die <Stark>Schraubendreher und Schraubenschlüssel</Stark> Symbol. </Abb>
+  </Figur>
 
-  <figure>
+  <Figur>
     <img src="/assets/img/blackview/bv_lock_2.png">
-    <figcaption>2. Lock your app in the White List. </figcaption>
-  </figure>
+    <Abb>2. Sperren Sie Ihre App in der Weißen Liste. </Abb>
+  </Figur>
 
 </div>
 
@@ -65,13 +65,13 @@ This point is not confirmed to be helpful, but it was suggested by the technical
 
 ## DuraSpeed
 
-You can either whitelist Your app from the DuraSpeed, or disable it completely.
+Sie können Ihre App entweder aus dem DuraSpeed auf die Whitelist setzen oder sie vollständig deaktivieren.
 
-<div class="img-block">
-  <figure>
+<div Klasse="img-block">
+  <Figur>
     <img src="/assets/img/blackview/bv_dura_1.png">
-    <figcaption>1. Settings -> Smart Assist. </figcaption>
-  </figure>
+    <Abb>1. Einstellungen -> Smart Assist. </Abb>
+  </Figur>
 
   <figure>
     <img src="/assets/img/blackview/bv_dura_2.png">
